@@ -44,7 +44,7 @@
 
 **`2022.04.05`**: 完成前七章源码上传 @wangyipan
 
-**`2022.04.05`**: 更新了目录，上传了PDF @jianghanqi
+**`2022.04.06`**: 更新了目录，上传了PDF @jianghanqi
 
 
 ## committers
